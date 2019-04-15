@@ -16,4 +16,9 @@ data/installments_payments.csv
 data/POS_CASH_balance.csv
 data/previous_application.csv
 data/sample_submission.csv
+homework/Day_001_example_of_metrics.ipynb
+homework/Day_002_first_EDA.ipynb
+homework/Day_003-1_build_dataframe_from_scratch.ipynb
+homework/Day_003-2_read_and_write_files.ipynb
+homework/Day_003-3_read_and_write_files.ipynb
 homework/.ipynb_checkpoints/Day_001_HW-checkpoint.ipynb
